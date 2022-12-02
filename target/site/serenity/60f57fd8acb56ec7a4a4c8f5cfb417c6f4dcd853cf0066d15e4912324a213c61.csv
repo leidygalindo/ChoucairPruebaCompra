@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Validar el ingreso correto al sitio web","Validar el ingreso correcto","SUCCESS","2022-12-02T16:09:17.711-05:00[America/Bogota]","0.0","7.27"
+"Validar el ingreso correto al sitio web","Agregar articulos al carrito de compras","SUCCESS","2022-12-02T16:09:24.986-05:00[America/Bogota]","0.0","5.44"
+"Validar el ingreso correto al sitio web","Comprar los articulos del carrito de compras","SUCCESS","2022-12-02T16:09:30.425-05:00[America/Bogota]","0.0","8.71"

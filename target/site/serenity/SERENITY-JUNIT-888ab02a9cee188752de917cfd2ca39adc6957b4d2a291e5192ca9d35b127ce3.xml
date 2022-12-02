@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Validar el ingreso correto al sitio web" skipped="0" tests="3" time="21.42" timestamp="2022-12-02 04:09:17"><testcase name="Validar el ingreso correcto"/><testcase name="Agregar articulos al carrito de compras"/><testcase name="Comprar los articulos del carrito de compras"/></testsuite>
